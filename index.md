@@ -11,7 +11,7 @@ Software per la scrittura
     </div>
     <div>
       <h2>LibreOffice Writer</h2>
-      <p>LibreOffice Writer est un logiciel de traitement de texte</p>
+      <p>LibreOffice Writer è un elaboratore di testi</p>
       <div>
         <a href="https://framalibre.org/notices/libreoffice-writer.html">Vai alla scheda Framalibre</a>
         <a href="https://fr.libreoffice.org/discover/writer/">Vai al sito</a>
@@ -28,7 +28,7 @@ Scrivere un testo in modalità collaborativa
     </div>
     <div>
       <h2>Etherpad</h2>
-      <p>Un éditeur de texte collaboratif et en temps réel !</p>
+      <p>Un editor di testo collaborativo e in tempo reale!</p>
       <div>
         <a href="https://framalibre.org/notices/etherpad.html">Vai alla scheda Framalibre</a>
         <a href="http://etherpad.org/">Vai al sito</a>
@@ -44,7 +44,7 @@ Un foglio di calcolo collaborativo
     </div>
     <div>
       <h2>EtherCalc</h2>
-      <p>Un tableur collaboratif en temps réel !</p>
+      <p>Un foglio di calcolo in tempo reale!</p>
       <div>
         <a href="https://framalibre.org/notices/ethercalc.html">Vai alla scheda Framalibre</a>
         <a href="https://ethercalc.net/">Vai al sito</a>
@@ -75,7 +75,7 @@ Editing di immagini
     </div>
     <div>
       <h2>GIMP</h2>
-      <p>Un puissant logiciel d'édition et de retouche d'images.</p>
+      <p>Un software potente per l'editing e il ritocco di immagini .</p>
       <div>
         <a href="https://framalibre.org/notices/gimp.html">Vai alla scheda Framalibre</a>
         <a href="https://www.gimp.org/">Vai al sito</a>
@@ -92,7 +92,7 @@ Disegno vettoriale
     </div>
     <div>
       <h2>LibreOffice Draw</h2>
-      <p>Pour vos dessins : du simple texte illustré aux graphiques vectoriels fouillés.</p>
+      <p>Per i tuoi disegni: dal semplice testo illustrato alla grafica vettoriale elaborata.</p>
       <div>
         <a href="https://framalibre.org/notices/libreoffice-draw.html">Vai alla scheda Framalibre</a>
         <a href="http://fr.libreoffice.org/discover/draw/">Vai al sito</a>
@@ -112,7 +112,7 @@ Gestire la comunicazione di gruppo
     </div>
     <div>
       <h2>Mattermost</h2>
-      <p>Mattermost est un logiciel décentralisé de communication en équipe.</p>
+      <p>Mattermost è un software decentralizzato per la comunicazione nei gruppi.</p>
       <div>
         <a href="https://framalibre.org/notices/mattermost.html">Vai alla scheda Framalibre</a>
         <a href="https://www.mattermost.org/">Vai al sito</a>
