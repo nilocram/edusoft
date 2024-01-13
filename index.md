@@ -3,7 +3,7 @@ title: "I miei consigli: software da usare in classe"
 order: 0
 in_menu: true
 ---
-Softwareper la scrittura
+Software per la scrittura
 
   <article class="framalibre-notice">
     <div>
