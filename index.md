@@ -60,7 +60,7 @@ Creare un modulo online
     </div>
     <div>
       <h2>Yakform</h2>
-      <p>Yakforms vous permet de créer simplement et rapidement des formulaires en ligne.</p>
+      <p>Yakforms ti permette di creare dei moduli online in modo semplice e rapido.</p>
       <div>
         <a href="https://framalibre.org/notices/yakform.html">Vai alla scheda Framalibre</a>
         <a href="https://yakforms.org/">Vai al sito</a>
@@ -114,7 +114,7 @@ Gestire la comunicazione di gruppo
       <h2>Mattermost</h2>
       <p>Mattermost est un logiciel décentralisé de communication en équipe.</p>
       <div>
-        <a href="https://framalibre.org/notices/mattermost.html">Vers la notice FramalibreVai alla scheda Framalibre</a>
+        <a href="https://framalibre.org/notices/mattermost.html">Vai alla scheda Framalibre</a>
         <a href="https://www.mattermost.org/">Vai al sito</a>
       </div>
     </div>
