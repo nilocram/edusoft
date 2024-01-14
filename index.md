@@ -119,3 +119,7 @@ in_menu: true
       </div>
     </div>
   </article> 
+
+Pagina creata da [Nilocram](https://framapiaf.org/@nilocram)
+
+Distribuita con [licenza Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.it) 
