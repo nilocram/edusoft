@@ -3,7 +3,7 @@ title: "I miei consigli: software da usare in classe"
 order: 0
 in_menu: true
 ---
-Software per la scrittura
+#### Software per la scrittura
 
   <article class="framalibre-notice">
     <div>
@@ -20,7 +20,7 @@ Software per la scrittura
   </article>
 
 
-Scrivere un testo in modalità collaborativa
+#### Scrivere un testo in modalità collaborativa
 
   <article class="framalibre-notice">
     <div>
@@ -36,7 +36,7 @@ Scrivere un testo in modalità collaborativa
     </div>
   </article>
 
-Un foglio di calcolo collaborativo
+#### Un foglio di calcolo collaborativo
 
   <article class="framalibre-notice">
     <div>
@@ -52,7 +52,7 @@ Un foglio di calcolo collaborativo
     </div>
   </article>
 
-Creare un modulo online
+#### Creare un modulo online
 
   <article class="framalibre-notice">
     <div>
@@ -68,7 +68,7 @@ Creare un modulo online
     </div>
   </article>
 
-Editing di immagini
+#### Editing di immagini
   <article class="framalibre-notice">
     <div>
       <img src="https://framalibre.org/images/logo/GIMP.png">
@@ -84,7 +84,7 @@ Editing di immagini
   </article>
 
 
-Disegno vettoriale
+#### Disegno vettoriale
 
   <article class="framalibre-notice">
     <div>
@@ -103,7 +103,7 @@ Disegno vettoriale
 
 
 
-Gestire la comunicazione di gruppo
+#### Gestire la comunicazione di gruppo
 
 
   <article class="framalibre-notice">
