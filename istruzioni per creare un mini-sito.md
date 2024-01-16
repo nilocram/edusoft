@@ -1,6 +1,6 @@
 ---
 title: "Istruzioni per creare un mini-sito"
-order: 0
+order: 1
 in_menu: true
 ---
 # Come si crea un mini-sito?
